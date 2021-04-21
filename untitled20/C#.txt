@@ -1,0 +1,29 @@
+class Program {
+        static void Main(string args) {
+            System.out.println("Привет мир!");
+            int a = f;
+            D = a + b;
+            Ldl = 102;
+            System.out.println(asd + asdf);
+            kdjskdlf(lksjdfl);
+            for(int i = 0; i < 10; i = i + 1){
+                        System.out.println(i);
+            }
+            dkk();
+            int j = 5;
+            boolean f = true;
+            while (j < 10){
+                        j = j + 52;
+            }
+            Pdf = "lksdfj";
+            do{
+                        call();
+            } while (jskdf < lkjasf);
+        }
+
+	int func(){
+            Ksdfj slkdfj;
+            Ksdjf = lkjsd + ldakjf;
+            return 0;
+	}
+    }
